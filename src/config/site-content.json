@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Uogh801",
+		"description": "Uogh801的个人博客，记录探索、笔记。",
+		"username": "uoghluvm"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,17 +44,17 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/uoghluvm",
 			"label": "Github",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "uogh801@gmail.com",
 			"label": "",
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false
+	"clockShowSeconds": true
 }
