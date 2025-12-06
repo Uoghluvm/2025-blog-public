@@ -1,16 +1,6 @@
-export const list = [
-	{
-		name: 'spotify-like',
-		iframe: `<iframe
-				  style="border-radius:12px"
-				  src="https://open.spotify.com/embed/playlist/0CZFGrJJYxlmKJMxnzcZjv?utm_source=generator"
-				  width="100%"
-				  height="352"
-				  frameBorder="0"
-				  allowfullscreen=""
-				  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-				  loading="lazy">
-				</iframe>
-				`
-	}
-]
+export const musicList = [  
+  {  
+    title: "My Spotify Playlist",  
+    url: "https://open.spotify.com/playlist/0CZFGrJJYxlmKJMxnzcZjv",  
+  },  
+];
