@@ -17,6 +17,7 @@ import { useConfigStore } from './stores/config-store'
 import { toast } from 'sonner'
 import ConfigDialog from './config-dialog/index'
 import { useEffect } from 'react'
+import { musicList } from "../music/list"
 
 export default function Home() {
 	const { maxSM } = useSize()
@@ -77,7 +78,7 @@ export default function Home() {
 				{cardStyles.hiCard?.enabled !== false && <HiCard />}
 				{!maxSM && cardStyles.clockCard?.enabled !== false && <ClockCard />}
 				{!maxSM && cardStyles.calendarCard?.enabled !== false && <CalendarCard />}
-				{!maxSM && cardStyles.musicCard?.enabled !== false && <MusicCard />}
+				{!maxSM && (<div className="grid gap-6"> {musicList.map((music) => ( <MusicCard key={music.url} url={music.url} />  ))}  </div> )}
 				{cardStyles.socialButtons?.enabled !== false && <SocialButtons />}
 				{!maxSM && cardStyles.shareCard?.enabled !== false && <ShareCard />}
 				{cardStyles.articleCard?.enabled !== false && <AritcleCard />}
