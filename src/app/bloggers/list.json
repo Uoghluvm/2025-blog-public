@@ -98,13 +98,6 @@
 		"stars": 3
 	},
 	{
-		"name": "Cali",
-		"url": "https://cali.so/",
-		"avatar": "https://cali.so/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPortrait.8d12f14a.png&w=96&q=75",
-		"description": "设计师，网站设计不错，但是 blog 内容很少。但厉害的是他已经自己开公司了，给别人设计网站，影石 Insta360 是他们设计的。很好的 blog 参考。他的 zolplay 网站跟 nanda 风格很像，不知道谁抄的谁。",
-		"stars": 4
-	},
-	{
 		"name": "Chrome Blog",
 		"url": "https://web.dev/blog?hl=zh-cn",
 		"avatar": "/images/blogger/2fe46db88bd43683.svg",
@@ -145,20 +138,6 @@
 		"avatar": "https://niracler.com/favicon.svg",
 		"description": "小透明，偶尔更新一篇blog。但是网站风格还是有特点的，可作为设计 blog 时的参考。",
 		"stars": 2
-	},
-	{
-		"name": "講評世界",
-		"url": "https://blog.moeyua.com/",
-		"avatar": "https://avatars.githubusercontent.com/u/45156493?v=4",
-		"description": "小透明，失踪人口。但 blog 网站样式有种字体的美，不知道怎么说。好像是影视飓风成员。",
-		"stars": 2
-	},
-	{
-		"name": "阿猫的博客",
-		"url": "https://ameow.xyz/",
-		"avatar": "https://ameow.xyz/upload/favicon.png",
-		"description": "可爱的网站，一直在更新他的猫鱼周刊。",
-		"stars": 3
 	},
 	{
 		"name": "pseudoyu",
