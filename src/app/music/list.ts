@@ -1,6 +1,16 @@
 export const list = [
 	{
 		name: '我的悲伤是水做的',
-		iframe: `<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115259171935419&bvid=BV1HrJ9zXEvF&cid=32603177515&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>`
+		iframe: `<iframe
+				  style="border-radius:12px"
+				  src="https://open.spotify.com/embed/playlist/0CZFGrJJYxlmKJMxnzcZjv?utm_source=generator"
+				  width="100%"
+				  height="352"
+				  frameBorder="0"
+				  allowfullscreen=""
+				  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+				  loading="lazy">
+				</iframe>
+				`
 	}
 ]
