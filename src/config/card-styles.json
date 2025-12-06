@@ -5,7 +5,7 @@
 		"order": 3,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	},
 	"hiCard": {
 		"width": 360,
@@ -87,6 +87,6 @@
 		"order": 8,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	}
 }
