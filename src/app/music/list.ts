@@ -1,6 +1,6 @@
 export const list = [
 	{
-		name: '我的悲伤是水做的',
+		name: 'spotify-like',
 		iframe: `<iframe
 				  style="border-radius:12px"
 				  src="https://open.spotify.com/embed/playlist/0CZFGrJJYxlmKJMxnzcZjv?utm_source=generator"
