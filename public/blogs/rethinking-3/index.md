@@ -9,6 +9,8 @@
 - 自始至终没有找到真的因为想要做好这件事而去做这件事的人
 - 基层自发的热爱 **自下而上** 地推动
 
+想来也是，光靠“好人奇迹”不能改正足球环境，王健林也失败了。
+
 # 联想：如何给AI设计“热爱函数”？
 
 Natural Emergent Misalignment from Reward Hacking in Production RL（https://arxiv.org/abs/2511.18397 ）
